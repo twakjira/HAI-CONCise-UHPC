@@ -25,17 +25,24 @@ Welcome to the HAI-CONCise-UHPC repository! HAI-CONCise-UHPC is an innovative an
 
 ### Installation
 
-To get started with HAI-CONCise-UHPC, you need to have Python installed on your system (Python 3.6 or higher is recommended).
-
-Install the required Python libraries by running the following command:
+To get started with HAI-CONCise-UHPC, you need to have Python and several libraries installed on your system. You can install the required libraries using the following command:
 
 
 ### Running the Application
 
-You can run the HAI-CONCise-UHPC application by executing the following command:
+To run the HAI-CONCise-UHPC application, follow these steps:
+
+1. Make sure you have Jupyter Notebook installed. If you don't have it, you can install it using pip:
 
 
-Make sure to replace `your_script_name.py` with the actual name of your Python script.
+2. Launch Jupyter Notebook by running the following command in your terminal or command prompt:
+
+
+3. In the Jupyter Notebook interface, navigate to the directory where the `HAI-CONCise-UHPC.ipynb` script is located.
+
+4. Open the `HAI-CONCise-UHPC.ipynb` notebook.
+
+5. Execute the notebook cells to use the application.
 
 ## Using the Application
 
@@ -54,7 +61,7 @@ Before predicting the stress-strain response, you need to input the following pa
 
 1. Input the desired values for the parameters mentioned above.
 
-2. Click the "Predict and Plot" button to generate the stress-strain curve for the confined UHPC specimen.
+2. Execute the notebook cell that corresponds to the "Predict and Plot" operation to generate the stress-strain curve for the confined UHPC specimen.
 
 3. The interactive plot will display the predicted stress-strain response, providing insights into the behavior of the material.
 
@@ -62,7 +69,7 @@ Before predicting the stress-strain response, you need to input the following pa
 
 - After generating the stress-strain curve, you can export the predicted data to an Excel file for further analysis.
 
-- Click the "Export to Excel" button, and a file dialog will appear to choose the destination and filename for the Excel file.
+- Execute the notebook cell that corresponds to the "Export to Excel" operation, and a file dialog will appear to choose the destination and filename for the Excel file.
 
 ## Citing
 
