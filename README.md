@@ -35,6 +35,8 @@ Install the required Python libraries by running the following command:
 You can run the HAI-CONCise-UHPC application by executing the following command:
 
 
+Make sure to replace `your_script_name.py` with the actual name of your Python script.
+
 ## Using the Application
 
 HAI-CONCise-UHPC offers a user-friendly interface for predicting the stress-strain response of confined UHPC specimens. Here's how to use the application effectively:
