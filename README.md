@@ -77,13 +77,14 @@ If you use this software for your work, we kindly request that you cite the corr
 
 Authors: `[Author Name]`
 
-`[Link to Paper (if available)]`
+`[Link to Paper]`
 
 ## Contact
 
-For inquiries, assistance, or feedback, you can contact the authors via email:
+For inquiries, assistance, or feedback, you can contact via the following contact form:
 
-`[Author Name]`: `[author@email.com](mailto:author@email.com)`
+`[[Author Name]](https://www.tadessewakjira.com/Contact)` OR
+`[contact@tadessewakjira.com](mailto:contact@tadessewakjira.com)`
 
 ## License
 
