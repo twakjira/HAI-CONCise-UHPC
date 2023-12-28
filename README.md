@@ -13,7 +13,6 @@ Welcome to the HAI-CONCise-UHPC repository! HAI-CONCise-UHPC is an innovative an
   - [Export to Excel](#export-to-excel)
 - [Citing](#citing)
 - [Contact](#contact)
-- [License](#license)
 
 ## Features
 
