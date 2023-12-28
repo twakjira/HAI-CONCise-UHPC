@@ -67,10 +67,10 @@ HAI-CONCise-UHPC offers a user-friendly interface for predicting the stress-stra
 
 Before predicting the stress-strain response, you need to input the following parameters for your UHPC specimen:
 
-- **Transverse Reinforcement Ratio (rohsy)**: The percentage of transverse reinforcement.
+- **Transverse Reinforcement Ratio (𝜌𝑠𝑡)**: The percentage of transverse reinforcement.
 - **Yield Strength of Transverse Reinforcement (fy)**: The yield strength of the transverse reinforcement in megapascals (MPa).
 - **Compressive Strength of Unconfined UHPC (fco)**: The compressive strength of unconfined UHPC in MPa.
-- **Fiber Volumetric Ratio (Vf)**: The fiber volumetric ratio as a percentage.
+- **Fiber Volumetric Ratio (vf)**: The fiber volumetric ratio as a percentage.
 
 ### Predict and Plot
 
