@@ -25,24 +25,41 @@ Welcome to the HAI-CONCise-UHPC repository! HAI-CONCise-UHPC is an innovative an
 
 ### Installation
 
-To get started with HAI-CONCise-UHPC, you need to have Python and several libraries installed on your system. You can install the required libraries using the following command:
+To get started with HAI-CONCise-UHPC, you need to have Python and required libraries installed on your system. You can install the required libraries using the following command:
 
 
 ### Running the Application
 
-To run the HAI-CONCise-UHPC application, follow these steps:
+## Running the Application
 
-1. Make sure you have Jupyter Notebook installed. If you don't have it, you can install it using pip:
+To successfully run the HAI-CONCise-UHPC application, please follow these steps:
 
+1. **Install Python**
+   - Ensure Python is installed on your system. If not, you can download and install it from the [official Python website](https://www.python.org/).
 
-2. Launch Jupyter Notebook by running the following command in your terminal or command prompt:
+2. **Install Required Libraries**
+   - Install the necessary Python libraries by opening your terminal or command prompt and running the following command:
+     ```bash
+     pip install pandas numpy matplotlib scikit-learn xgboost PySimpleGUI Pillow
+     ```
 
+3. **Download the Application Script**
+   - Download the `HAI-CONCise-UHPC.py` script to your local machine.
 
-3. In the Jupyter Notebook interface, navigate to the directory where the `HAI-CONCise-UHPC.ipynb` script is located.
+4. **Download the Resources Folder**
+   - Also, download and save the "resources" folder in the same directory as the `HAI-CONCise-UHPC.py` script. This folder should contain all necessary resources, such as model files or data, that are required by the application.
 
-4. Open the `HAI-CONCise-UHPC.ipynb` notebook.
+5. **Open Your Python Environment**
+   - Launch your preferred Python environment. This could be an Integrated Development Environment (IDE) like PyCharm or Visual Studio Code, or a web-based platform like Google Colab.
 
-5. Execute the notebook cells to use the application.
+6. **Load the Script**
+   - In your Python environment, open the `HAI-CONCise-UHPC.py` script.
+
+7. **Run the Application**
+   - Execute the script to start the application. This is typically done by pressing a 'Run' button in IDEs or using a run command in the console.
+
+Following these instructions will enable you to run the HAI-CONCise-UHPC application in any compatible Python environment. It's crucial to ensure that the "resources" folder is placed in the same directory as the main script for the application to function correctly.
+
 
 ## Using the Application
 
