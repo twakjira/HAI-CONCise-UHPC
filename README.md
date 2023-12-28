@@ -81,11 +81,7 @@ Authors: `[Author Name]`
 
 ## Contact
 
-For inquiries, assistance, or feedback, you can contact via the following contact form:
+For inquiries, assistance, or feedback, feel free to reach out through one of the following methods:
+- [Contact Form](https://www.tadessewakjira.com/Contact)
+- [Email](mailto:contact@tadessewakjira.com)
 
-`[Contact form](https://www.tadessewakjira.com/Contact)` or
-`[email](mailto:contact@tadessewakjira.com)`
-
-## License
-
-This project is licensed under the `[Your License Name]` License - see the `LICENSE.md` file for details.
