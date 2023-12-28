@@ -83,7 +83,7 @@ Authors: `[Author Name]`
 
 For inquiries, assistance, or feedback, you can contact via the following contact form:
 
-`[[Author Name]](https://www.tadessewakjira.com/Contact)` OR
+`[[Author Name]](https://www.tadessewakjira.com/Contact)` or
 `[contact@tadessewakjira.com](mailto:contact@tadessewakjira.com)`
 
 ## License
