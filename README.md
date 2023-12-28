@@ -30,8 +30,6 @@ To get started with HAI-CONCise-UHPC, you need to have Python and required libra
 
 ### Running the Application
 
-## Running the Application
-
 To successfully run the HAI-CONCise-UHPC application, please follow these steps:
 
 1. **Install Python**
