@@ -88,9 +88,7 @@ Before predicting the stress-strain response, you need to input the following pa
 
 ## Citing
 
-If you use this software for your work, we kindly request that you cite the corresponding paper as a reference.
-
-Authors: `[Author Name]`
+If you use this tool for your work, we kindly request that you cite the corresponding paper as a reference.
 
 `[Link to Paper]`
 
